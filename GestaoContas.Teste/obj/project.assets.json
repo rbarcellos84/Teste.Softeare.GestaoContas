@@ -5819,11 +5819,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Curso C#.Net\\Aulas\\Aulas2023\\Normal\\DDD\\Teste.Softeare\\GestaoContas.Teste\\GestaoContas.Teste.csproj",
+      "projectUniqueName": "F:\\_ProjetoGit\\Teste.Softeare.GestaoContas\\GestaoContas.Teste\\GestaoContas.Teste.csproj",
       "projectName": "GestaoContas.Teste",
-      "projectPath": "F:\\Curso C#.Net\\Aulas\\Aulas2023\\Normal\\DDD\\Teste.Softeare\\GestaoContas.Teste\\GestaoContas.Teste.csproj",
+      "projectPath": "F:\\_ProjetoGit\\Teste.Softeare.GestaoContas\\GestaoContas.Teste\\GestaoContas.Teste.csproj",
       "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-      "outputPath": "F:\\Curso C#.Net\\Aulas\\Aulas2023\\Normal\\DDD\\Teste.Softeare\\GestaoContas.Teste\\obj\\",
+      "outputPath": "F:\\_ProjetoGit\\Teste.Softeare.GestaoContas\\GestaoContas.Teste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Programas\\Microsoft Visual Studio\\Shared\\NuGetPackages"

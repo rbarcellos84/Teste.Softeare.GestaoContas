@@ -1,0 +1,1 @@
+Um projeto desenvolvido para realização de teste, utilizamos uma tela de cadastro do projeto Gestão de contas, onde utilizamos a biblioteca Selenium, para criação de teste automatizadas e a biblioteca Bogus, para geração de dados fictício.

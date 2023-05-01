@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MFW2nOtcesn9DgdFXT+4vxtLw1UGlgMCDGaW5Q2gi6ernq2zQBYdXgTz/j8FMmgLupBIoiz9tRw6pKHd8jsCZQ==",
+  "dgSpecHash": "02dvLXil6VT0rygsQoiCfT7+hC04aFV5Smu6eGWw5e3rZhZpkbD5qJmypXy1foZh7/7f3yr6s+pPgbdahZ4REw==",
   "success": true,
-  "projectFilePath": "F:\\Curso C#.Net\\Aulas\\Aulas2023\\Normal\\DDD\\Teste.Softeare\\GestaoContas.Teste\\GestaoContas.Teste.csproj",
+  "projectFilePath": "F:\\_ProjetoGit\\Teste.Softeare.GestaoContas\\GestaoContas.Teste\\GestaoContas.Teste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodrigo\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\Rodrigo\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
